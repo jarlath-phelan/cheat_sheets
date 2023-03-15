@@ -1,2 +1,2 @@
 # cheat_sheets
-A collection of reference code and commands collected over the years.
+A collection of reference code and collected over the years.
